@@ -1,0 +1,36 @@
+ACC;Adrenocortical carcinoma;;;;;;);ACC (Adrenocortical carcinoma);;THYM;THYM (Thymoma)
+BLCA;Bladder Urothelial Carcinoma;;;;;;);BLCA (Bladder Urothelial Carcinoma);;ESCA;ESCA (Esophageal carcinoma)
+BRCA;Breast invasive carcinoma;;;;;;);BRCA (Breast invasive carcinoma);;BRCA;BRCA (Breast invasive carcinoma)
+CESC;Cervical squamous cell carcinoma and endocervical adenocarcinoma;;;;;;);CESC (Cervical squamous cell carcinoma and endocervical adenocarcinoma);;LUAD;LUAD (Lung adenocarcinoma)
+CHOL;Cholangiocarcinoma;;;;;;);CHOL (Cholangiocarcinoma);;LUSC;LUSC (Lung squamous cell carcinoma)
+CNTL;Controls;;;;;;);CNTL (Controls);;KICH;KICH (Kidney Chromophobe)
+COAD;Colon adenocarcinoma;;;;;;);COAD (Colon adenocarcinoma);;STAD;STAD (Stomach adenocarcinoma)
+DLBC;Lymphoid Neoplasm Diffuse Large B-cell Lymphoma;;;;;;);DLBC (Lymphoid Neoplasm Diffuse Large B-cell Lymphoma);;CHOL;CHOL (Cholangiocarcinoma)
+ESCA;Esophageal carcinoma;;;;;;);ESCA (Esophageal carcinoma);;LIHC;LIHC (Liver hepatocellular carcinoma)
+GBM;Glioblastoma multiforme;;;;;;);GBM (Glioblastoma multiforme);;PRAD;PRAD (Prostate adenocarcinoma)
+HNSC;Head and Neck squamous cell carcinoma;;;;;;);HNSC (Head and Neck squamous cell carcinoma);;HNSC;HNSC (Head and Neck squamous cell carcinoma)
+KICH;Kidney Chromophobe;;;;;;);KICH (Kidney Chromophobe);;KIRP;KIRP (Kidney renal papillary cell carcinoma)
+KIRC;Kidney renal clear cell carcinoma;;;;;;);KIRC (Kidney renal clear cell carcinoma);;SARC;SARC (Sarcoma)
+KIRP;Kidney renal papillary cell carcinoma;;;;;;);KIRP (Kidney renal papillary cell carcinoma);;UCEC;UCEC (Uterine Corpus Endometrial Carcinoma)
+LAML;Acute Myeloid Leukemia;;;;;;);LAML (Acute Myeloid Leukemia);;BLCA;BLCA (Bladder Urothelial Carcinoma)
+LCML;Chronic Myelogenous Leukemia;;;;;;);LCML (Chronic Myelogenous Leukemia);;PAAD;PAAD (Pancreatic adenocarcinoma)
+LGG;Brain Lower Grade Glioma;;;;;;);LGG (Brain Lower Grade Glioma);;CESC;CESC (Cervical squamous cell carcinoma and endocervical adenocarcinoma)
+LIHC;Liver hepatocellular carcinoma;;;;;;);LIHC (Liver hepatocellular carcinoma);;GBM;GBM (Glioblastoma multiforme)
+LUAD;Lung adenocarcinoma;;;;;;);LUAD (Lung adenocarcinoma);;KIRC;KIRC (Kidney renal clear cell carcinoma)
+LUSC;Lung squamous cell carcinoma;;;;;;);LUSC (Lung squamous cell carcinoma);;SKCM;SKCM (Skin Cutaneous Melanoma)
+MESO;Mesothelioma;;;;;;);MESO (Mesothelioma);;PCPG;PCPG (Pheochromocytoma and Paraganglioma)
+MISC;Miscellaneous;;;;;;);MISC (Miscellaneous);;THCA;THCA (Thyroid carcinoma)
+OV;Ovarian serous cystadenocarcinoma;;;;;;);OV (Ovarian serous cystadenocarcinoma);;;
+PAAD;Pancreatic adenocarcinoma;;;;;;);PAAD (Pancreatic adenocarcinoma);;;
+PCPG;Pheochromocytoma and Paraganglioma;;;;;;);PCPG (Pheochromocytoma and Paraganglioma);;;
+PRAD;Prostate adenocarcinoma;;;;;;);PRAD (Prostate adenocarcinoma);;;
+READ;Rectum adenocarcinoma;;;;;;);READ (Rectum adenocarcinoma);;;
+SARC;Sarcoma;;;;;;);SARC (Sarcoma);;;
+SKCM;Skin Cutaneous Melanoma;;;;;;);SKCM (Skin Cutaneous Melanoma);;;
+STAD;Stomach adenocarcinoma;;;;;;);STAD (Stomach adenocarcinoma);;;
+TGCT;Testicular Germ Cell Tumors;;;;;;);TGCT (Testicular Germ Cell Tumors);;;
+THCA;Thyroid carcinoma;;;;;;);THCA (Thyroid carcinoma);;;
+THYM;Thymoma;;;;;;);THYM (Thymoma);;;
+UCEC;Uterine Corpus Endometrial Carcinoma;;;;;;);UCEC (Uterine Corpus Endometrial Carcinoma);;;
+UCS;Uterine Carcinosarcoma;;;;;;);UCS (Uterine Carcinosarcoma);;;
+UVM;Uveal Melanoma;;;;;;);UVM (Uveal Melanoma);;;
